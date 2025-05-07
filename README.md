@@ -19,7 +19,3 @@ This script is designed to prepare the environment for further operations, likel
 - **Language**: PowerShell (100%)
 - **Purpose**: Automate and manage tasks efficiently, focusing on Exchange-related setups and configurations.
 
-Feel free to explore and adapt the scripts to your specific requirements!
-```
-
-You can copy and paste this content into the `README.md` file in your repository. Let me know if you'd like me to enhance or modify it further!
